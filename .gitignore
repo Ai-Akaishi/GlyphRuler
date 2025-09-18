@@ -4,3 +4,5 @@ calc/minecraft/
 # ignore JSON and CSV files directly under calc/
 calc/*.json
 calc/*.csv
+
+*.zip
